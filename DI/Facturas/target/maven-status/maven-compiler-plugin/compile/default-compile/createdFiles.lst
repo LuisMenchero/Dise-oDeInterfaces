@@ -1,0 +1,5 @@
+com\mycompany\gestorfacturas\Modelo\TipoFactura.class
+com\mycompany\gestorfacturas\Modelo\Factura.class
+com\mycompany\gestorfacturas\Modelo\GestorFacturas.class
+com\mycompany\gestorfacturas\Controladores\ControladorFacturas.class
+com\mycompany\gestorfacturas\Vista\PantallaPrincipal.class
